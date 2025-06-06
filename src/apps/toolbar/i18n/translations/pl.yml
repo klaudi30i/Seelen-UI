@@ -61,7 +61,7 @@ placeholder:
   ethernet_connected: dostęp do Internetu
   ethernet_disconnected: Brak dostępu do internetu
   notifications: Powiadomienia
-  open_system_tray: Ukryte ikony
+  open_system_tray: Pokaż ukryte ikony
   settings: Szybkie ustawienia
   smart_charge: '- Inteligentne ładowanie'
   volume: Głośność
@@ -69,7 +69,7 @@ settings:
   app_settings: Ustawienia aplikacji
   brightness: Jasność
   hibernate: Hibernuj
-  lock: Blokuj
+  lock: Zablokuj
   log_out: Wyloguj
   power: Zasilanie
   restart: Uruchom ponownie
