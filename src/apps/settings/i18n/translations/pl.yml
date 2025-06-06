@@ -3,7 +3,7 @@ app_launcher:
   launch_on:
     mouse_over: Tam gdzie kursor
     primary: Główny
-  monitor: Ekran na którym się uruchomi
+  monitor: Ekran na którym się wyświetli
   runners:
     cmd: Wymuś
     explorer: Uruchom
@@ -22,7 +22,7 @@ apps_configurations:
     options:
       float: Platforma
       force: Siła zarządza
-      hidden: Ukryj się przed dokiem/paskiem zadań
+      hidden: Ukryj się przed dockiem/paskiem zadań
       pinned: Przypięty
       unmanage: Niezarządzanie
     options_label: Dodatkowe opcje
@@ -90,11 +90,11 @@ extras:
   clear_icons_tooltip: >-
     Do poprawnego uruchomienia wszystkich widżetów może być wymagane ponowne
     uruchomienie systemu
-  discord: Odrzuć
+  discord: Discord
   exit: Wyjdź
   github: Github
   links: Oficjalne linki
-  relaunch: Wznów
+  relaunch: Uruchom pononownie Seelen UI
   version: Wersja
 general:
   accent_color: Kolor akcentu
@@ -121,7 +121,7 @@ header:
     soundpack: Pakiety dźwiękowe
     specific_apps: Ustawienia według aplikacji
     theme: Tematy
-    virtual_desk: Wirtualne komputery stacjonarne
+    virtual_desk: Wirtualne pulpity
     wallpaper: Tapety
     widget: Widżety
 home:
@@ -130,7 +130,7 @@ inherit: Dziedziczyć
 inProgress: W trakcie...
 insert: Wstawić
 loading: Ładowanie...
-miscellaneous: Różnorodny
+miscellaneous: Różne
 monitors_configurations:
   label: Monitor {{indeks}}
 more: Więcej
@@ -271,7 +271,7 @@ weg:
   delay_to_hide: Opóźnienie ukrycia
   delay_to_show: Opóźnienie wysunięcia
   dock_side: Pozycja
-  enable: Włącz dok/pasek zadań
+  enable: Włącz dock/pasek zadań
   filtering: Filtrowanie pozycji
   gap: Przerwa
   hide_mode:
@@ -282,7 +282,7 @@ weg:
     gap: Przerwa między elementami
     label: Elementy
     pinned_visibility:
-      always: Zawsze
+      always: Wszystkie ekrany
       label: Widoczność przypiętych elementów
       when_primary: Główny ekran
     show_instance_counter: Wyświetl liczbę otwartych okien
@@ -297,8 +297,8 @@ weg:
   label: Dock/Pasek zadań
   margin: Margines
   mode:
-    full_width: Pełna szerokość ekranu
-    min_content: Jak najmniejszy
+    full_width: Jak ekran
+    min_content: Najmniejsza
   padding: Wysokość tła
   width: Szerokość
 widget:
